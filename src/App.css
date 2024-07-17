@@ -1,0 +1,3 @@
+button.fixed.top-4.left-4.z-50 {
+    z-index: 50; /* Ensure the button is on top of other elements */
+  }
